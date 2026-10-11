@@ -1,0 +1,6 @@
+{
+  "name": "AgroFinanzas - Gestión Agrícola y Cobranzas",
+  "description": "Plataforma integral de gestión financiera, inventario de cosechas, ventas, cobranzas y clientes para productores agrícolas y fundos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
